@@ -1,16 +1,53 @@
-# React + Vite
+# 💎 Brillance - Modern Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, high-fidelity, and responsive SaaS landing page for contract billing automation. Built using **React**, **Vite**, and **Tailwind CSS v4**.
 
-Currently, two official plugins are available:
+🔗 **Main Header:** Effortless custom contract billing by Brillance.
+> *Streamline your billing process with seamless automation for every custom contract, tailored by Brillance.*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Plan Your Schedules**: Streamline customer subscriptions and billing with automated scheduling tools.
+- **Analytics & Insights**: Transform your business data into actionable insights with real-time analytics dashboard views.
+- **Collaborate Seamlessly**: Keep your team aligned with shared dashboards and collaborative workflows.
+- **Modern Premium Design**: Sleek layout, custom typography, and responsive grid layouts designed with glassmorphic and elegant aesthetics.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- **React 19** - Component-based user interface library.
+- **Vite 8** - High-performance frontend tool and local dev server.
+- **Tailwind CSS v4** - Fast utility-first CSS framework with native `@tailwindcss/vite` plugin integrations.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository and install dependencies
+Install the required node modules:
+```bash
+npm install
+```
+
+### 2. Run the development server
+Start Vite locally:
+```bash
+npm run dev
+```
+
+### 3. Build for production
+Generate optimized static production assets:
+```bash
+npm run build
+```
+
+---
+
+### 🚀 [HappyKoding](https://www.youtube.com/@happykoding07)
+*Let's learn, build, and grow together!*
+
+### 🤝 Let's Connect
+[[Codeforces](https://codeforces.com/profile/tasnim07)] | [[LinkedIn](https://www.linkedin.com/in/tasnimahmed20/)] | [[Facebook](https://www.facebook.com/tasnim.ahmed.20)]
