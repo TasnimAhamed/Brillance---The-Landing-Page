@@ -1,5 +1,5 @@
 import IconComponent from "../ui/IconComponent"
-import NavLink from "../ui/NavLink"
+import NavLink from "../ui/NavGroup"
 
 const socialIcons = [
     "X",
@@ -103,8 +103,10 @@ function Footer() {
                 <div
                     className="absolute inset-0 w-full h-full overflow-hidden"
                 >
-                    <div className="w-full h-full relative">
-                        {/* Decorative pattern lines */}
+                    <div className="w-full h-full relative flex items-center justify-center">
+                        <div className="text-[rgba(73,66,61,0.50)] text-sm">
+                            copyright @2026 Brillance
+                        </div>
                     </div>
                 </div>
             </div>
